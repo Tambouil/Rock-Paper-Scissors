@@ -1,17 +1,23 @@
-## Rock-Paper-Scissors-Lizard-Spock Game
+![alt text](https://github.com/Tambouil/Rock-Paper-Scissors/blob/main/Result.png?raw=true)
+
+# Rock-Paper-Scissors-Lizard-Spock Game
 
 Made with React JS
 
-https://github.com/Tambouil/Rock-Paper-Scissors/blob/main/Result.png?raw=true
+## Designed by Frontend Mentor
 
-### Designed by Frontend Menthor
+[Frontend Mentor](http://www.frontendmentor.io/home)
 
-[Frontend Menthor](http://www.frontendmentor.io/home)
+### Clone the Repo
 
-### `git clone git@github.com:Tambouil/Rock-Paper-Scissors.git`
+```bash
+git clone git@github.com:Tambouil/Rock-Paper-Scissors.git
+```
 
-Clone the Repo
+### Get the dependencies
 
-### `npm i`
+```bash
+npm i
+```
 
-Get the dependencies
+

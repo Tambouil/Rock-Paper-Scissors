@@ -2,7 +2,7 @@
 
 Made with React JS
 
-(https://github.com/Tambouil/Rock-Paper-Scissors/blob/main/Result.png?raw=true)
+https://github.com/Tambouil/Rock-Paper-Scissors/blob/main/Result.png?raw=true
 
 ### Designed by Frontend Menthor
 

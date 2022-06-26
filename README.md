@@ -20,4 +20,12 @@ git clone git@github.com:Tambouil/Rock-Paper-Scissors.git
 npm i
 ```
 
+### Start the project
+
+```bash
+npm start
+```
+
+
+
 
